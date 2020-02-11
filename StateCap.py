@@ -9,7 +9,7 @@ We have an existing dictionary that maps US states to their capitals.
 is it in?
 Implement the function def get_state(capital): below so it returns the state.
 GOTCHAS: What happens if two states have the same capital name, how do you
-handle that?
+handle that?  ???
 """
 
 import sys
